@@ -1,7 +1,7 @@
 💻 Marcelo Vitor Sousa Ribeiro  
 📍 São Paulo – SP  
 📱 (77) 98136-9863  
-🔗[LinkedIn](www.linkedin.com/in/marcelo-vitor-35629732a) 📧 [vitormarcelo189@gmail.com](mailto:vitormarcelo189@gmail.com)  
+🔗[LinkedIn](https://www.linkedin.com/in/marcelo-vitor-35629732a) 📧 [vitormarcelo189@gmail.com](mailto:vitormarcelo189@gmail.com)  
 
 ## 🎯 Objetivo
 Atuar como Estagiário na área de Desenvolvimento de Software, aplicando conhecimentos construídos de forma autodidata em lógica de programação e no ecossistema de desenvolvimento, com disposição para aprender na prática e evoluir profissionalmente.
